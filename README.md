@@ -1,4 +1,8 @@
-# docker-mailserver
+# Migration / Deprecation Notice - We Migrated
+
+**We have migrated this repository to the _Docker Mailserver Organization_. This repository is therefore not maintained anymore. Please head over to [the new repository](https://github.com/docker-mailserver/docker-mailserver) for issues, pull requests and discussions. All work is now done there.**
+
+## docker-mailserver
 
 ![build_status] [![docker_pulls]][docker::hub]
 
